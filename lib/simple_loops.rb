@@ -12,3 +12,7 @@ while count< integer do
   count += 1 
 end
 end
+def output_array(array)
+  puts array
+end
+  
