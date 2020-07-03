@@ -23,7 +23,7 @@ def return_string_array(array)
   count = 0 
   while count<array.length do 
     count += 1  
-    puts array.to_s
+    puts to_s
   end 
   end
   
