@@ -4,3 +4,4 @@ def loop_message_five_times(message)
     puts array[counter]
     counter += 1
   end 
+end
