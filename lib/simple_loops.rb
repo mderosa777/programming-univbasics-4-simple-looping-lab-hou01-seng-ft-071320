@@ -22,10 +22,11 @@ end
 def return_string_array(array)
   count = 0 
   while count<array.length do 
-    count += 1 
+    count += 1  
+    puts array.to_s
   end 
   end
-  return_string_array
+  
   
   
   
